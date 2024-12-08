@@ -199,4 +199,3 @@ def plot_health_feature_vs_vaccine(data, target, health_feature):
         ax.set_xticks([0, 1])
         ax.set_xticklabels(["Not Vaccinated", "Vaccinated"])
         plt.show()
-
